@@ -1,0 +1,19 @@
+.w2-center {
+    font-size: 70px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Acme', sans-serif;
+}
+
+.w3-bar-item {
+    font-family: 'Miltonian Tattoo', cursive;
+    text-decoration: underline;
+    background-color: bisque;
+}
+
+.chef {
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Acme', sans-serif;
+}
